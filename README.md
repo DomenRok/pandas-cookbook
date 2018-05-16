@@ -1,27 +1,23 @@
-Pandas cookbook
+Recepti za Pandas
 ===============
+Ta dokument je prevod priročnika [Pandas Cookbook](https://github.com/jvns/pandas-cookbook) avtorice [Julije Evans](http://jvns.ca/).
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jvns/pandas-cookbook/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mrcinv/pandas-cookbook/master)
 
-[pandas](http://pandas.pydata.org/) is a Python library for doing
-data analysis. It's really fast and lets you do exploratory work
-incredibly quickly.
+[pandas](http://pandas.pydata.org/) je knjižnica za Python namenjena analizi podatkov.
+Deluje zelo hitro in omogoča uporabniku izjemno hitro interaktivno delo s podatki.
 
-The goal of this cookbook is to give you some concrete examples for
-getting started with pandas. The [docs](http://pandas.pydata.org/pandas-docs/stable/)
-are really comprehensive. However, I've often had people
-tell me that they have some trouble getting started, so these are
-examples with real-world data, and all the bugs and weirdness
-that entails.
+Namen te zbirke receptov je predstaviti nekaj konkretnih primerov, da bi lažje 
+začeli uporabljati pandas. [Dokumentacija](http://pandas.pydata.org/pandas-docs/stable/)
+je zelo izčrpna. A pogosto so mi ljudje rekli, da so imeli težave, ker niso vedeli kako začeti. Ti primeri uporabljajo podatke iz resničnega sveta in vse težave in čudaštva, ki spadajo k realnim podatkom.
 
-I'm working with 3 datasets right now
+Delam s temi seti podatkov
 
-* 311 calls in New York
-* How many people were on Montréal's bike paths in 2012
-* Montreal's weather for 2012, hourly
+* klici na 311 v New Yorku
+* število kolesarjev na kolesarskih poteh v Montréalu v letu 2012
+* vreme v Montrealu za leto 2012 po urah
 
-It comes with batteries (data) included, so you can try out all the
-examples right away.
+Baterije (podatki) so vključeni, zato lahko začneš takoj sam poskušati vse prikazane primere.
 
 Table of Contents
 =================
